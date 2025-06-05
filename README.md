@@ -20,8 +20,8 @@ This is a simple conversational AI agent built using **Streamlit**. It helps use
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/thoughtfulai-task.git
-cd thoughtfulai-task
+git clone https://github.com/moontech69/thoughtfulAI-task.git
+cd thoughtfulAI-task
 ```
 
 ### 2. Install dependencies
@@ -34,5 +34,3 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
-
