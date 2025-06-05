@@ -1,7 +1,7 @@
 [project]
-name = "thoughtfulai code challenge"
+name = "thoughtfulai_code_challenge"
 version = "0.1.0"
-description = "thoughtfulai code challenge"
+description = "ThoughtfulAi code challenge"
 requires-python = ">=3.11"
 dependencies = [
     "streamlit>=1.45.1",
